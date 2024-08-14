@@ -1,0 +1,20 @@
+.cobra{
+    background-color: rgb(35, 131, 35);
+}
+
+.explodindo{
+    background-color: red;
+    animation: explodir ease 300ms;
+}
+
+@keyframes explodir {
+    from{
+        scale: 1;
+        opacity: 1;
+    }
+
+    to{
+        scale: 2;
+        opacity: 0;
+    }
+}

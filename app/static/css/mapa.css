@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    background-color: black;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-jogo{
+    outline: red 1px solid;
+    display: flex;
+}
+
+.item{
+    border-radius: 50%;
+}
+
+.maca{
+    background-color: red;
+}
+
+.pontos{
+    color: white;
+}
