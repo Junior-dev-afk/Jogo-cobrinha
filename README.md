@@ -6,4 +6,4 @@ Backend : python ( flask )
 
 Frontend :  javascript, HTML e CSS 
 
-Intuito : Trabalhar o codigo limbo ( clean code )
+Intuito : Trabalhar o codigo limpo ( clean code )
